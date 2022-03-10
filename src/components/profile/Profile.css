@@ -1,0 +1,44 @@
+body{
+    background: #1A2980;  
+    background: -webkit-linear-gradient(to right, #26D0CE, #1A2980);  
+    background: linear-gradient(to right, #26D0CE, #1A2980);
+    font-family:sans-serif;
+
+}
+.div_main{
+    background: #1A2980;  
+    background: -webkit-linear-gradient(to left, #26D0CE, #1A2980);  
+    background: linear-gradient(to left, #26D0CE, #1A2980);
+    width: 60%;
+
+}
+img{
+    border-radius: 100%;
+    width: 50%;
+}
+.img_profile{
+    
+    
+    width: 50%;
+    border: 3px solid #ddd;
+    border-radius: 55%;
+    /* background-color: aqua; */
+}
+
+.img_btn{
+    display:ruby;
+}
+
+.div_img{
+    margin-left: 25%;
+    display:flex;
+    align-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.div_img input{
+    
+    width: 90%;
+
+}
